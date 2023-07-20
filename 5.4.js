@@ -9,7 +9,6 @@ let stringletter=stringword
 }
    return stringword.join(' ') 
 }
-
 console.log(toWeirdCase("amal nabeel shweiki"));*/
 function toWeirdCase(string){
       return string.split(' ').map( 

@@ -1,6 +1,5 @@
 
 /*function fib(n) {
-
     const result = [0, 0, 1];
     for (var i = 3; i <= n; i++) { //2                  3                       4
       const a = result[i - 1];    //a=ressult[1]=1      a=ressult[2]=1          a=ressult[3]=2
