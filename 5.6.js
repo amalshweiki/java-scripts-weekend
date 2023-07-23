@@ -1,4 +1,4 @@
-
+//Mask
 /*function maskify(secretString)
 {
     return maskString='#'.repeat(secretString.length-4) + secretString.substring(secretString.length-4);

@@ -1,7 +1,8 @@
-let varboolean=true;
 
-function booleanToString(varboolean){   
-  return  varString=varboolean.toString();
-}
-booleanToString(varboolean);
-console.log(varString);
+const booleanToString = varboolean => varboolean.toString();
+
+
+/*function booleanToString(varboolean){   
+  return  varString=varboolean.toString();}*/
+
+console.log(booleanToString(true));

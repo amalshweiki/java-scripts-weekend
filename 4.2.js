@@ -1,4 +1,6 @@
 
+
+//Tribonacci -
 /*function fib(n) {
     const result = [0, 0, 1];
     for (var i = 3; i <= n; i++) { //2                  3                       4

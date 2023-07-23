@@ -1,3 +1,5 @@
+//To Weird Case
+
 /*function toWeirdCase(string){
 let stringword=string.split(' ')
 for (let i = 0; i < stringword.length; i++) {

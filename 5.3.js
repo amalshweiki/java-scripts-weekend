@@ -1,7 +1,5 @@
 
-
-
-
+//To Camel Case
 function camelCase(stringWithDashOrUnderscore) {
     let splitStr =[];
     if (stringWithDashOrUnderscore.includes('-')) {

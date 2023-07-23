@@ -1,4 +1,4 @@
-
+//Advanced Math.. Fibonacci
 function fib(n) {
 
     const result = [0, 1];

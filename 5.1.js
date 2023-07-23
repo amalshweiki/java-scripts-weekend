@@ -1,3 +1,6 @@
+//trimming string
+
+
 /*let originalstring='amal shweiki';
 function trimString(string1){
    return originalstring.substring(1, originalstring.length-1);

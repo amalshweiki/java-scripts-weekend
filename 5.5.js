@@ -1,3 +1,5 @@
+//Abbreviate two words
+
 let Name="amal shweiki";
 function AbbreviateTwoWords(Name){
     let NameArray = Name.split(' ');
@@ -10,8 +12,7 @@ function AbbreviateTwoWords(Name){
 console.log(AbbreviateTwoWords(Name)); 
 
 /*let Name="Amal shweiki";
-function AbbreviateTwoWords(Name){
-
+function AbbreviateTwoWords(Name){ 
 return Name.split(" ").map(element) => element.charAt(0).toUpperCase().join(".")
 }
 console.log(AbbreviateTwoWords(Name)); */

@@ -1,3 +1,4 @@
+//shortest words version 2
 function findLongestWord(str) {
     var words = str.split(' ');
     var longest = words.reduce((longestWord, currentWord) => {                     

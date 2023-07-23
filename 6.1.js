@@ -1,3 +1,4 @@
+//Mumbling
 function accum(mumblingString){
     
     let mumblingString2=mumblingString.split('')
